@@ -1,0 +1,23 @@
+<ion-view view-title="Vertigo" name="login-view">
+  <ion-content class="padding">
+<!-- logo -->
+	<p style="text-align:center" class="vertigologo">
+		<img src="img/logs2.png" id="logo" alt="" width="150px" height="150px"></img>
+		<H2 class="vertigotxt"> Vertigo </H2>
+	</p>
+<!-- form login -->
+	<div class="loginform" align="center">
+      <label >
+        <input type="text" placeholder="Username" ng-model="data.username">
+      </label>
+      <label>
+        <input type="password" placeholder="Password" ng-model="data.password">
+      </label>
+	</div>
+	<div class="tombol" align="center">
+	 <button class="loginbutton" ng-click="login()">Login</button>
+	  </br>
+	 <button class="signupbutton" ng-click="register()">Sign Up</button>
+	</div>
+  </ion-content>
+</ion-view>
