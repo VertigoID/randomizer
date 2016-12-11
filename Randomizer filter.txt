@@ -3,10 +3,14 @@
 -indoor
 -alocoholic
 -non-alcoholic
--western
--local
 -club
 -bar
 -restaurant
+ >coffe place
+ >ice cream
+ >food truck
+ >bakery
+ >cakery
+ >self-service
 -all you can eat
 -(promotions)
