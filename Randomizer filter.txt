@@ -8,3 +8,5 @@
 -club
 -bar
 -restaurant
+-all you can eat
+-(promotions)
